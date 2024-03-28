@@ -1,0 +1,8 @@
+ .card {
+     align-items: center;
+     text-align: center;
+     margin: 10px 10px 10px 10px;
+     background-color: rgba(17, 17, 144, 0.645) !important;
+     color: antiquewhite !important;
+     border-width: 10px;
+ }
